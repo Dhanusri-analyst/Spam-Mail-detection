@@ -10,15 +10,15 @@ Spam messages waste time and often carry scams and phishing links. This project 
 
 Highlights
 
-End-to-end workflow: data exploration → text cleaning → model training → evaluation → deployment
-Compared four models and evaluated them with precision, recall and F1 (not just accuracy)
-Removed duplicate messages before splitting to avoid data leakage
+End-to-end workflow: data exploration → text cleaning → model training → evaluation → deployment.
+Compared four models and evaluated them with precision, recall and F1 (not just accuracy).
+Removed duplicate messages before splitting to avoid data leakage.
 Interactive app with spam score, word highlighting, adjustable threshold and batch CSV prediction
 📂 Dataset
-File: mail_data 2 - mail_data 2.csv
-Size: 5,572 messages, 2 columns: Category (ham / spam) and Message
-Class balance: about 87% ham and 13% spam (imbalanced)
-Duplicates: 415 duplicate messages removed, leaving 5,157 unique messages
+File: spam mail.csv.
+Size: 5,572 messages, 2 columns: Category (ham / spam) and Message.
+Class balance: about 87% ham and 13% spam (imbalanced).
+Duplicates: 415 duplicate messages removed, leaving 5,157 unique messages.
 🛠️ Approach
 Exploratory analysis: class balance, message length, duplicates. Spam messages are noticeably longer than ham.
 Text cleaning: lowercase; replace URLs, emails, money amounts and phone numbers with tokens; remove punctuation.
