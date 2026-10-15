@@ -53,7 +53,8 @@ History log and session statistics
 
 Add screenshots here, for example:
 
-![Spam Mail Detector app]<img width="1343" height="600" alt="spam detection" src="https://github.com/user-attachments/assets/169dbb29-d40c-488e-bfa4-2689157f597a" />
+![Spam Mail Detector app]<img width="1364" height="634" alt="spam" src="https://github.com/user-attachments/assets/5e73af91-46d2-4837-b9c3-77c92f9becbd" />
+
 
 🧰 Tech Stack
 
