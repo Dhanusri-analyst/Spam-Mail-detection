@@ -2,7 +2,7 @@
 
 A machine learning project that classifies SMS / email messages as spam or ham (not spam), with an interactive Streamlit web app that explains why a message was flagged.
 
-🔗 Live demo: add your Streamlit app link here after deploying
+🔗 Live demo: https://spam-mail-detector-ml.streamlit.app/
 
 📌 Project Overview
 
